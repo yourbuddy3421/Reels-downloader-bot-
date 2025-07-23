@@ -2,7 +2,7 @@ import os
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8041809102:AAGJCqqS7MmzQOkhqveLYq1bWy6BqX02H1o")
 
 AD_MESSAGE = "\n\n🔸 *Sponsored by XYZ*\n🔥 Get more tools at: t.me/YourSponsor"
 
